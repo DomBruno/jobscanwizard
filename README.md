@@ -4,10 +4,10 @@ CLI for easy implementation of Shaja Abidi's Tweet Scraper.
 
 ## Dependencies
 
-- Node.js
-- Twit
-- Objects-to-csv
-- dotenv
+- [Node.js](https://nodejs.org/en/download/)
+- [Twit](https://www.npmjs.com/package/twit)
+- [Objects-to-csv](https://www.npmjs.com/package/objects-to-csv)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Other Prerequisites
 
