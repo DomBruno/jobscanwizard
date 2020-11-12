@@ -1,6 +1,6 @@
 # Twitter Scraping Wizard
 
-CLI for easy implementation of Shajia Abidi's Tweet Scraper.
+CLI for easy implementation of [Shajia Abidi's Tweet Scraper](https://www.twilio.com/blog/automate-your-job-search-with-twitter-and-twilio-programmable-sms).  Shajia has excellent documentation on the original application and integration of Twilio.  This first implementation does not include the Twilio functionality, though this is currently expected to be implemented in future iterations.
 
 ## Dependencies
 
