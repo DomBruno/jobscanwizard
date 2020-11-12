@@ -1,6 +1,6 @@
 # Twitter Scraping Wizard
 
-CLI for easy implementation of Shaja Abidi's Tweet Scraper.
+CLI for easy implementation of Shajia Abidi's Tweet Scraper.
 
 ## Dependencies
 
