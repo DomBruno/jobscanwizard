@@ -29,10 +29,10 @@ export ACCESS_TOKEN_SECRET=yourAccessTokenSecret
 
 ...making sure to replace all the placeholders with your information.  
 4. Install dependencies (ie `npm install twit objects-to-csv dotenv`).  
-5. Edit `app.js` line 17 where `q` is your search string and `count` is the number of tweets to return.
+5. Edit `index.js` line 17 where `q` is your search string and `count` is the number of tweets to return.
   - `{ q: 'looking for frontend', count: 1 }` might be edited to `{ q: 'looking for Scrum Master', count: 23 }`
   
  ## Usage
  
  1. Ensure you are in your project's root directory.
- 2. In your terminal, type: `node app.js`.
+ 2. In your terminal, type: `node index.js`.
